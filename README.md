@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Nitheeskumarshub<br>👀 I’m interested in Web development<br>🌱 I’m currently learning MERN stack<br>💞️ I’m looking to collaborate on Web development intern
+👋 Hi, I’m @Nitheeskumarshub<br>👀 I’m interested in Android Application Developer<br>🌱 I’m currently learning ReactJS<br>💞️ I’m looking to collaborate on FullStack intern
 
 
 ## 🌐 Socials:
